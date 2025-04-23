@@ -14,21 +14,13 @@ function App() {
         <LikeButton />
         <LikeButton />
       </div>
-
       <hr />
-
       <Counter />
-
       <hr />
-
       <ClickablePicture />
-
       <hr />
-
       <Dice />
-
       <hr />
-
       <Carousel
         images={[
           "https://randomuser.me/api/portraits/women/1.jpg",
